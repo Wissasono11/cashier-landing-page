@@ -2,6 +2,9 @@
 
 A modern, responsive landing page for a cashier/payment system built with Bootstrap 5 and custom CSS.
 
+## 🚩 Live Server
+**[🔗 Cashier - Landing Page](https://cashier-tech.netlify.app/)**
+
 ## 🚀 Features
 
 - **Responsive Design**: Mobile-first approach with Bootstrap 5.3.7
